@@ -836,7 +836,7 @@ Building a modern, instruction-following LLM involves four distinct sequential s
 
 | Model       | Overall Score | Best For                                                                            |
 | ----------- | :-----------: | ----------------------------------------------------------------------------------- |
-| **ChatGPT** |  **9.3/10**   | Clear explanations, quick learning, assignments, and beginner-friendly content.     |
+| **ChatGPT** |  **9.5/10**   | Clear explanations, quick learning, assignments, and beginner-friendly content.     |
 | **Gemini**  |  **9.4/10**   | Technical depth, architecture analysis, engineering reports, and advanced learning. |
 
 # Conclusion
