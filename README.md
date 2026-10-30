@@ -137,11 +137,6 @@ Generative AI uses machine learning models, particularly deep learning, to under
 
 ---
 
-## How Generative AI Works
-
-![alt text](image.png)
-
----
 
 ## Core Technologies
 
@@ -607,7 +602,7 @@ A quick-reference guide connecting core Generative AI (GenAI) architectures to t
 
 ## Diagram
 
-![alt text](image-17.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/901132b0-3a2f-4fe5-8f81-9244689ff204" />
 ---
 
 ## 4. Generative AI impact of scaling in LLMs.
